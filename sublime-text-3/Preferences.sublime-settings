@@ -1,0 +1,59 @@
+{
+	"animation_enabled": false,
+	"auto_complete_commit_on_tab": false,
+	"auto_complete_with_fields": true,
+	"auto_find_in_selection": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".zeus.sock",
+		".tags",
+		".tags_sorted_by_file"
+	],
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		".sass-cache",
+		".git",
+		".svn",
+		"tmp",
+		"log",
+		"spec/reports"
+	],
+	"font_face": "Source Code Pro",
+	"font_size": 15,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"index_files": true,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"match_brackets": false,
+	"material_theme_accent_lime": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tree_headings": true,
+	"rulers":
+	[
+		99
+	],
+	"save_on_focus_lost": false,
+	"shift_tab_unindent": false,
+	"show_full_path": true,
+	"spell_check": true,
+	"tab_size": 2,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"vintage_ctrl_keys": true,
+	"vintage_start_in_command_mode": true,
+	"word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~",
+	"word_wrap": false
+}

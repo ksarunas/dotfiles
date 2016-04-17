@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+RSpec.describe ${1:class} do
+  describe '${2:method}' do
+    subject { described_class${2}${3:params} }
+  end
+end
+]]></content>
+  <tabTrigger>screq</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>
+
