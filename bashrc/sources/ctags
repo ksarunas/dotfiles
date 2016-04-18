@@ -1,2 +1,0 @@
-# finds the correct ctags executable
-export PATH=/usr/local/bin:$PATH

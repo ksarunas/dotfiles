@@ -12,6 +12,6 @@ fi
 
 ln -sf "$DOT_HOME/rbenv/default-gems" ~/.rbenv/default-gems
 
-$GIT clone https://github.com/sstephenson/rbenv-default-gems.git $PLUGIN_PATH
+$GIT clone https://github.com/rbenv/rbenv-default-gems.git $PLUGIN_PATH
 
 echo "Done"
