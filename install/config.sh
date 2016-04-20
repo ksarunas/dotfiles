@@ -3,14 +3,7 @@ WGET=`which wget`
 GIT=`which git`
 DOTFILES_REPO="git@github.com:ksarunas/dotfiles.git"
 DOT_HOME="$HOME/dotfiles"
-
-if [[ "$OSTYPE" =~ ^linux  ]]; then
-  OS_TYPE="LINUX"
-  SUBLIME_PATH="$HOME/.config/sublime-text-3"
-else
-  OS_TYPE="OSX"
-  SUBLIME_PATH="$HOME/Library/Application Support/Sublime Text 3"
-fi
+SUBLIME_PATH="$HOME/Library/Application Support/Sublime Text 3"
 
 # sublime
 PACKAGES_PATH="$SUBLIME_PATH/Packages"

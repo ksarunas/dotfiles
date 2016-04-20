@@ -1,6 +1,6 @@
 # My personal dotfiles
 
-Works for OS X and Linux
+Works for OS X
 
 ## Installing
 
