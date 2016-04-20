@@ -31,7 +31,7 @@ ln -sv "$DOT_HOME/sublime-text-3/" "$SUBLIME_PATH/Packages/User"
 PACKAGE_CONTROL_PKG="$SUBLIME_PATH/Installed Packages/Package Control.sublime-package"
 if [[ ! -e "$PACKAGE_CONTROL_PKG" ]]; then
   echo 'Installing Package Control..'
-  $WGET "https://sublime.wbond.net/Package%20Control.sublime-package" -O "$PACKAGE_CONTROL_PKG"
+  $WGET --no-check-certificate "https://sublime.wbond.net/Package%20Control.sublime-package" -O "$PACKAGE_CONTROL_PKG"
   echo 'Package Control installed.'
 fi
 
