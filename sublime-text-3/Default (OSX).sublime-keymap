@@ -54,6 +54,7 @@
 
   // Github Tools
   { "keys": ["ctrl+g", "b"], "command": "git_blame" },
+  { "keys": ["ctrl+g", "d"], "command": "git_diff_all" },
 
   // Shell commands
   { "keys": ["ctrl+c", "c"], "command": "shell_command" },
