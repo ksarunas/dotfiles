@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+include Interactor::Initializer
+
+initialize_with_keyword_params ${1:attributes}
+
+def run
+
+end
+]]></content>
+  <tabTrigger>iik</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>
