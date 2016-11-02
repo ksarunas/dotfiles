@@ -37,6 +37,7 @@
 		"ShellCommand",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-flow",
 		"SublimeLinter-jshint",
 		"SublimeLinter-jsxhint",
 		"SublimeLinter-rubocop",
