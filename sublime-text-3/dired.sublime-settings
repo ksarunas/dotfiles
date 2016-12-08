@@ -1,11 +1,7 @@
 {
-	"dired_jump_points":
-	{
-	},
-	"dired_to_copy":
-	[
-	],
-	"dired_to_move":
-	[
-	]
+  "dired_jump_points": {},
+  "dired_to_copy": [],
+  "dired_to_move": [],
+  "dired_hidden_files_patterns": [".*", "__pycache__", "*.pyc"],
+  "dired_show_hidden_files": false
 }
