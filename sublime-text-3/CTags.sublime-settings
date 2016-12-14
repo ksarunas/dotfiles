@@ -1,9 +1,9 @@
 {
   "autocomplete": false,
   "definition_current_first": true,
-  "select_searched_symbol": false,
+  "select_searched_symbol": true,
   "opts" : [
     "--exclude=workspace"
   ],
-  "command": "~/.rbenv/shims/ripper-tags"
+  "command": "/usr/local/bin/ctags"
 }

@@ -1,7 +1,19 @@
 {
-  "dired_jump_points": {},
-  "dired_to_copy": [],
-  "dired_to_move": [],
-  "dired_hidden_files_patterns": [".*", "__pycache__", "*.pyc"],
-  "dired_show_hidden_files": false
+	"dired_hidden_files_patterns":
+	[
+		".*",
+		"__pycache__",
+		"*.pyc"
+	],
+	"dired_jump_points":
+	{
+	},
+	"dired_show_hidden_files": false,
+	"dired_to_copy":
+	[
+		"/Users/sarunaskujalis/Projects/Python-Backends/revelV2/dashboard/templates/widgets/product_taxes.html"
+	],
+	"dired_to_move":
+	[
+	]
 }
