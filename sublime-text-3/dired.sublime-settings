@@ -1,7 +1,9 @@
 {
 	"dired_hidden_files_patterns":
 	[
-		".*",
+		".DS_Store",
+		".tags",
+		".tags_sorted_by_file",
 		"__pycache__",
 		"*.pyc"
 	],
@@ -9,11 +11,6 @@
 	{
 	},
 	"dired_show_hidden_files": false,
-	"dired_to_copy":
-	[
-		"/Users/sarunaskujalis/Projects/Python-Backends/revelV2/dashboard/templates/widgets/product_taxes.html"
-	],
-	"dired_to_move":
-	[
-	]
+	"dired_to_copy": [],
+	"dired_to_move": []
 }
