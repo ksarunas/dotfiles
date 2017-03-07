@@ -1,6 +1,7 @@
 {
 	"user":
 	{
+		"@python": 2.7,
 		"debug": false,
 		"delay": 0.25,
 		"error_color": "D02000",
@@ -8,9 +9,20 @@
 		"gutter_theme_excludes":
 		[
 		],
-		"lint_mode": "manual",
+		"lint_mode": "load/save",
 		"linters":
 		{
+			"flow":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				],
+				"show-all-errors": true
+			},
 			"jshint":
 			{
 				"@disable": false,
@@ -31,6 +43,19 @@
 				"excludes":
 				[
 				]
+			},
+			"pep8":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				],
+				"ignore": "E127,E128",
+				"max-line-length": 99,
+				"select": ""
 			},
 			"rubocop":
 			{
@@ -53,7 +78,7 @@
 				]
 			}
 		},
-		"mark_style": "outline",
+		"mark_style": "none",
 		"no_column_highlights_line": false,
 		"passive_warnings": true,
 		"paths":

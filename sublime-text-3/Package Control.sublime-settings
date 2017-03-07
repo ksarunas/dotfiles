@@ -7,6 +7,7 @@
 	[
 		"AdvancedNewFile",
 		"All Autocomplete",
+		"Anaconda",
 		"Babel",
 		"BracketHighlighter",
 		"ChangeQuotes",
@@ -41,6 +42,7 @@
 		"SublimeLinter-flow",
 		"SublimeLinter-jshint",
 		"SublimeLinter-jsxhint",
+		"SublimeLinter-pep8",
 		"SublimeLinter-rubocop",
 		"SublimeLinter-ruby",
 		"SublimeREPL",
