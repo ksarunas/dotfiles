@@ -11,6 +11,10 @@
 	{
 	},
 	"dired_show_hidden_files": false,
-	"dired_to_copy": [],
-	"dired_to_move": []
+	"dired_to_copy":
+	[
+	],
+	"dired_to_move":
+	[
+	]
 }
