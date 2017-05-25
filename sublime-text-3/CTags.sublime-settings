@@ -3,7 +3,8 @@
   "definition_current_first": true,
   "select_searched_symbol": true,
   "opts" : [
-    "--exclude=workspace"
+    "--exclude=workspace",
+    "--exclude=*.pyc"
   ],
   "command": "/usr/local/bin/ctags"
 }

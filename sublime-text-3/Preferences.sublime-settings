@@ -6,7 +6,8 @@
 	"color_scheme": "Packages/Material Color Scheme/sublime/material-dark.tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"ensure_newline_at_eof_on_save": true,
-	"file_exclude_patterns": [
+	"file_exclude_patterns":
+	[
 		"*.pyc",
 		"*.pyo",
 		"*.exe",
