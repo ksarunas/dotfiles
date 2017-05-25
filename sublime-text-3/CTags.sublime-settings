@@ -1,10 +1,11 @@
 {
-  "autocomplete": true,
+  "autocomplete": false,
   "definition_current_first": true,
   "select_searched_symbol": true,
   "opts" : [
     "--exclude=workspace",
     "--exclude=*.pyc"
   ],
-  "command": "/usr/local/bin/ctags"
+  "command": "/usr/local/bin/ctags",
+  "extra_tag_files": [".tags_sorted_by_file"]
 }
