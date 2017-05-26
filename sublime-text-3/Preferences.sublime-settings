@@ -46,6 +46,7 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Vintage",
 	],
 	"index_files": true,
 	"line_padding_bottom": 2,
