@@ -4,6 +4,8 @@
   "select_searched_symbol": true,
   "opts" : [
     "--exclude=workspace",
+    "--exclude=node_modules",
+    "--exclude=migrations",
     "--exclude=*.pyc"
   ],
   "command": "/usr/local/bin/ctags",

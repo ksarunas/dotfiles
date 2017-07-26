@@ -23,6 +23,7 @@
 		"*.suo",
 		"*.pdb",
 		"*.idb",
+		"*.min.js",
 		".DS_Store",
 		"*.class",
 		"*.psd",
