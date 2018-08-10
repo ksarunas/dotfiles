@@ -1,9 +1,13 @@
 {
+	"added_words":
+	[
+		"Online"
+	],
 	"animation_enabled": false,
 	"auto_complete_commit_on_tab": false,
 	"auto_complete_with_fields": true,
 	"auto_find_in_selection": true,
-	"color_scheme": "Packages/Material Color Scheme/sublime/material-dark.tmTheme",
+	"color_scheme": "Packages/ayu/ayu-light.tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -47,7 +51,17 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
+		"ChannelRepositoryTools",
+		"Emmet",
+		"Ensime",
+		"ERB Autocomplete",
+		"GotoDocumentation",
+		"Javascript Beautify",
+		"JsFormat",
+		"Keymaps",
+		"lispindent",
+		"Neutron",
+		"Vintage"
 	],
 	"index_files": true,
 	"line_padding_bottom": 2,
@@ -68,7 +82,7 @@
 	"show_full_path": true,
 	"spell_check": true,
 	"tab_size": 2,
-	"theme": "Material-Theme.sublime-theme",
+	"theme": "ayu-light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false,

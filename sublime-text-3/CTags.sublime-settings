@@ -8,6 +8,7 @@
     "--exclude=migrations",
     "--exclude=*.pyc"
   ],
-  "command": "/usr/local/bin/ctags",
+  // "command": "/usr/local/bin/ctags",
+  "command": "~/.rbenv/shims/ripper-tags",
   "extra_tag_files": [".tags_sorted_by_file"]
 }

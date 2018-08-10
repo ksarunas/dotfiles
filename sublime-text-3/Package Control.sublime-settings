@@ -7,8 +7,9 @@
 	[
 		"AdvancedNewFile",
 		"All Autocomplete",
-		"Anaconda",
+		"ayu",
 		"Babel",
+		"Better CoffeeScript",
 		"BracketHighlighter",
 		"ChangeQuotes",
 		"Copy Filepath With Line Numbers",
@@ -18,12 +19,13 @@
 		"Git",
 		"GitGutter",
 		"Markdown Extended",
-		"Markdown Preview",
+		"MarkdownPreview",
 		"Markmon real-time markdown preview",
 		"Material Color Scheme",
 		"Material Theme",
 		"Package Control",
 		"RSpec",
+		"Sass",
 		"ShellCommand",
 		"SublimeLinter",
 		"SublimeLinter-flow",
@@ -32,7 +34,6 @@
 		"SublimeLinter-pep8",
 		"SublimeLinter-rubocop",
 		"SublimeLinter-ruby",
-		"Syntax Highlighting for Sass",
 		"TestRSpec",
 		"YAML Nav"
 	]
