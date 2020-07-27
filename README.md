@@ -15,7 +15,6 @@ chmod +x *
 ```
 ./git.sh
 ./sublime.sh
-./node-npm.sh
 
 # requires rbenv to be installed
 ./rbenv-rehash.sh
