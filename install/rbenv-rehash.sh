@@ -3,7 +3,7 @@
 echo "Configuring rbenv-rehash"
 source "$HOME/dotfiles/install/config.sh"
 
-PLUGIN_PATH="~/.rbenv/plugins/rbenv-gem-rehash"
+PLUGIN_PATH="$HOME/.rbenv/plugins/rbenv-gem-rehash"
 
 if [[ -e $PLUGIN_PATH ]]; then
   echo "Info: already setup. Done"
