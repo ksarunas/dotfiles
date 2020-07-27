@@ -1,0 +1,4 @@
+{
+  "rspec_add_to_path": "$HOME/.rbenv/shims",
+  "show_errors_inline": false,
+}
