@@ -1,12 +1,12 @@
 # My personal dotfiles
 
-Works for OS X
+Works on MacOS
 
 ## Installing
 
 ```
-git clone git@github.com:ksarunas/dotfiles.git ~/dotfiles
-cd ~/dotfiles/install
+git clone git@github.com:ksarunas/dotfiles.git ~/.dotfiles
+cd ~/.dotfiles/install
 chmod +x *
 ```
 
