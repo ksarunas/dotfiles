@@ -2,7 +2,7 @@ CURL=`which curl`
 WGET=`which wget`
 GIT=`which git`
 DOTFILES_REPO="git@github.com:ksarunas/dotfiles.git"
-DOT_HOME="$HOME/dotfiles"
+DOT_HOME="$HOME/.dotfiles"
 SUBLIME_PATH="$HOME/Library/ApplicationSupport/Sublime Text 3"
 
 # sublime
