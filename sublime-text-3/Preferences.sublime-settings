@@ -47,7 +47,7 @@
 		"log"
 	],
 	"font_face": "Source Code Pro",
-	"font_size": 16,
+	"font_size": 18,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -79,6 +79,7 @@
 	],
 	"save_on_focus_lost": false,
 	"shift_tab_unindent": false,
+	"show_errors_inline": false,
 	"show_full_path": true,
 	"spell_check": true,
 	"tab_size": 2,
