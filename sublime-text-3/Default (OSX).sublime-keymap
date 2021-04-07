@@ -20,6 +20,9 @@
   { "keys": ["super+ctrl+m"], "command": "back_to_definition"},
   { "keys": ["ctrl+p, ctrl+p"], "command": "copy_filepath_with_line_numbers"},
 
+  // DashDoc
+  { "keys": ["ctrl+h"], "command": "dash_doc" },
+
   // CTags bindings
   { "command": "navigate_to_definition", "keys": ["super+o"] },
 

@@ -16,5 +16,6 @@
 	],
 	"dired_to_move":
 	[
-	]
+	],
+	"dired_autorefresh": false
 }
