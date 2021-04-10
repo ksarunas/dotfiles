@@ -51,16 +51,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"ChannelRepositoryTools",
-		"Emmet",
-		"Ensime",
-		"ERB Autocomplete",
-		"GotoDocumentation",
-		"Javascript Beautify",
-		"JsFormat",
-		"Keymaps",
-		"lispindent",
-		"Neutron",
 		"Vintage"
 	],
 	"index_files": true,
