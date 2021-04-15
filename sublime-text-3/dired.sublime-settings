@@ -1,4 +1,5 @@
 {
+	"dired_autorefresh": true,
 	"dired_hidden_files_patterns":
 	[
 		".DS_Store",
@@ -16,6 +17,5 @@
 	],
 	"dired_to_move":
 	[
-	],
-	"dired_autorefresh": false
+	]
 }
