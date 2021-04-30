@@ -27,6 +27,7 @@
 		"SublimeLinter-rubocop",
 		"SublimeLinter-ruby",
 		"TestRSpec",
+		"TypeScript",
 		"YAML Nav"
 	]
 }
